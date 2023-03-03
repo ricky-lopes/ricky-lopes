@@ -2,6 +2,7 @@
 
 - 🔭 Estou trabalho com Front-End, utilizando o framework Angular
 - 🌱 Atualmente estou estudando NextJS
+- 📅 Sou desenvolvedor desde 2022
 
 ##
 
