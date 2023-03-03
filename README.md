@@ -1,9 +1,14 @@
 ### Olá, sou Henrique Lopes 👋
 
-##
-
 - 🔭 Estou trabalho com Front-End, utilizando o framework Angular
 - 🌱 Atualmente estou estudando NextJS
+
+##
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricky-lopes&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricky-lopes&layout=compact&langs_count=7&theme=highcontrast"/>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ricky-Angular" height="38" width="40" src="https://user-images.githubusercontent.com/57508752/222620833-f5dfb22f-0967-4f67-b0b6-73ce91fb41f0.png">
