@@ -1,7 +1,7 @@
 ### Olá, sou Henrique Lopes 👋
 
 - 🔭 Estou trabalho com Front-End, utilizando o framework Angular
-- 🌱 Atualmente estou estudando NextJS
+- 🌱 Atualmente estou estudando Nuxt e Golang
 - 📅 Sou desenvolvedor desde 2022
 - <a href="https://concentsistemas.com.br/" target="_blank"><img align="center" alt="Ricky-HTML" height="25" width="25" src="https://user-images.githubusercontent.com/57508752/222625833-c3c30d63-e2d0-464a-a178-5577c0e8c8b1.png"></a> Atualmente trabalho na empresa: <a href="https://concentsistemas.com.br/" target="_blank">Concent Sistemas</a>
  
