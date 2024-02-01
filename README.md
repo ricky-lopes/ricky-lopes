@@ -14,9 +14,12 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ricky-Angular" height="38" width="40" src="https://user-images.githubusercontent.com/57508752/222620833-f5dfb22f-0967-4f67-b0b6-73ce91fb41f0.png">
+  <img align="center" alt="Ricky-Vue" height="38" width="40" src="https://vuejsbr-docs-next.netlify.app/logo.png">
+  <img align="center" alt="Ricky-Nuxt" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/2560px-Nuxt_logo.svg.png">
+  <img align="center" alt="Ricky-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Ricky-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ricky-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ricky-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Ricky-Tailwind" height="30" width="40" src="https://www.markusantonwolf.com/topics/tailwind-css/tailwind-css-logo.svg">
   <img align="center" alt="Ricky-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Ricky-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
