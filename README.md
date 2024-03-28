@@ -22,6 +22,7 @@
   <img align="center" alt="Ricky-Tailwind" height="30" width="40" src="https://www.markusantonwolf.com/topics/tailwind-css/tailwind-css-logo.svg">
   <img align="center" alt="Ricky-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Ricky-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ricky-Figma" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg">
 </div>
 
  ##
